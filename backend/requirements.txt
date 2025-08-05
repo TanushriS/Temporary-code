@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+google-generativeai
+wmi
+pywin32
+python-dotenv
+aiofiles
